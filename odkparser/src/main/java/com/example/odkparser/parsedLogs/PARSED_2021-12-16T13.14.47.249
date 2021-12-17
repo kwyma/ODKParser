@@ -1,0 +1,57 @@
+===================================
+	PARSED TRAINING LOGS
+	2021-12-16T13:14:47.319
+	Use with ODK trainingLogger.js
+===================================
+
+-----------------------------------
+Parsing New File: 2021-12-16_12.log
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * UGANDA
+	CLICKED	[1.33 (s)]:
+	 * KAMPALA
+	CLICKED	[1.488 (s)]:
+	 * CENTRAL DIVISION
+	CLICKED	[1.684 (s)]:
+	 * View Map of All Health Facilities
+	CLICKED	[2.448 (s)]:
+	 * MENGO DOCTOR'S CLINIC
+		-- Facility ID: 2643-0001
+	CLICKED	[1.792 (s)]:
+	 * Refrigerator Inventory
+	CLICKED	[1.662 (s)]:
+	 * Refrigerator: 
+		-- Catalog ID: E375m
+		-- Facility: Mengo Doctor's Clinic
+	CLICKED	[2.333 (s)]:
+	 * Edit Refrigerator Status
+	-------------------------------
+	Action sequence took 12.737 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Add Maintenance Record
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Add Cold Room
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * KAWEMPE DIVISION
+	CLICKED	[3.402 (s)]:
+	 * View All Refrigerators
+	CLICKED	[2.229 (s)]:
+	 * Edit
+	-------------------------------
+	Action sequence took 5.631 (s)
