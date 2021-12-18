@@ -1,0 +1,204 @@
+===================================
+	PARSED TRAINING LOGS
+	2021-12-18T00:33:14.214
+	Use with ODK trainingLogger.js
+===================================
+
+-----------------------------------
+Parsing New File: 2021-12-17_21.log
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * UGANDA
+	CLICKED	[5.403 (s)]:
+	 * KAMPALA
+	CLICKED	[13.894 (s)]:
+	 * CENTRAL DIVISION
+	CLICKED	[7.546 (s)]:
+	 * View Health Facilities
+	CLICKED	[5.055 (s)]:
+	 * CENTRAL DIVISION
+	CLICKED	[6.634 (s)]:
+	 * View Map of All Health Facilities
+	CLICKED	[3.744 (s)]:
+	 * MENGO DOCTOR'S CLINIC
+		-- Facility ID: 2643-0001
+	CLICKED	[2.735 (s)]:
+	 * View Facility Information
+	CLICKED	[5.882 (s)]:
+	 * Refrigerator Inventory
+	CLICKED	[5.885 (s)]:
+	 * Edit
+	-------------------------------
+	Action sequence took 56.778 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Delete
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Add Refrigerator
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Refrigerator Inventory
+	CLICKED	[1.534 (s)]:
+	 * Refrigerator: 
+		-- Catalog ID:
+		-- Facility: Mengo Doctor's Clinic
+	CLICKED	[2.269 (s)]:
+	 * Edit Refrigerator Status
+	-------------------------------
+	Action sequence took 3.803 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Add Maintenance Record
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * View Facility Information
+	CLICKED	[22.833 (s)]:
+	 * View All Maintenance Records
+	CLICKED	[4.825 (s)]:
+	 * View Model Information
+	CLICKED	[1.89 (s)]:
+	 * View Model Information
+	CLICKED	[1.508 (s)]:
+	 * View Model Information
+	CLICKED	[1.4 (s)]:
+	 * View Model Information
+	CLICKED	[0.467 (s)]:
+	 * View Model Information
+	CLICKED	[0.271 (s)]:
+	 * View Model Information
+	CLICKED	[0.221 (s)]:
+	 * View Model Information
+	CLICKED	[1.066 (s)]:
+	 * View Model Information
+	CLICKED	[0.513 (s)]:
+	 * View Model Information
+	CLICKED	[0.998 (s)]:
+	 * View Model Information
+	CLICKED	[0.493 (s)]:
+	 * View All Maintenance Records
+	CLICKED	[3.903 (s)]:
+	 * View Model Information
+	CLICKED	[0.444 (s)]:
+	 * View Model Information
+	CLICKED	[0.953 (s)]:
+	 * View Model Information
+	CLICKED	[0.664 (s)]:
+	 * Edit Refrigerator
+	-------------------------------
+	Action sequence took 42.449 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Delete Refrigerator
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Delete Refrigerator
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Add Refrigerator
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Refrigerator Inventory
+	CLICKED	[1.323 (s)]:
+	 * Refrigerator: 
+		-- Catalog ID:
+		-- Facility: Mengo Doctor's Clinic
+	CLICKED	[3.654 (s)]:
+	 * Move Refrigerator
+	-------------------------------
+	Action sequence took 4.977 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Abu Kats Medical Center
+	CLICKED	[18.625 (s)]:
+	 * View All Refrigerator Moves
+	CLICKED	[6.247 (s)]:
+	 * Add Temperature Data
+	CLICKED	[7.96 (s)]:
+	 * View All Temperature Data
+	CLICKED	[11.546 (s)]:
+	 * Cold Room Inventory
+	CLICKED	[3.511 (s)]:
+	 * Add Cold Room
+	-------------------------------
+	Action sequence took 47.889 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Cold Room Inventory
+	CLICKED	[1.989 (s)]:
+	 * Cold Room Inventory
+	CLICKED	[21.164 (s)]:
+	 * Edit Facility
+	-------------------------------
+	Action sequence took 23.153 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Edit Facility
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * Delete Facility
+	-------------------------------
+	Action sequence took 0.0 (s)
+
+	Logging New Action Sequence...
+	-------------------------------
+	CLICKED	[0.0 (s)]:
+	 * View List of All Health Facilities
+	CLICKED	[40.167 (s)]:
+	 * Filter Health Facilities By Type
+	CLICKED	[14.252 (s)]:
+	 * View All Refrigerators
+	CLICKED	[1.74 (s)]:
+	 * Refrigerator: 
+		-- Catalog ID:
+		-- Facility: Mengo Doctor's Clinic
+	CLICKED	[5.011 (s)]:
+	 * View All Refrigerators Needing Service
+	CLICKED	[4.384 (s)]:
+	 * View All Cold Rooms
+	CLICKED	[7.729 (s)]:
+	 * View All Cold Rooms Needing Service
+	CLICKED	[2.57 (s)]:
+	 * View Refrigerator Models
